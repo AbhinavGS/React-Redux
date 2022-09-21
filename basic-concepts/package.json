@@ -1,0 +1,16 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "main": "redux-basics.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "redux": "^4.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
